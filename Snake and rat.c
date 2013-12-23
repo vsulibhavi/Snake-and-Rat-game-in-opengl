@@ -1,20 +1,3 @@
-/*Project developed by 
-
-Sandeep Panchmukhi
-sandeep.panchamukhi@gmail.com
-  
-Vishal sulibhavi 
-vsulibhavi@gmail.com
-
-Sandeep Ankolakar
-sandeep.ylp@gmail.com
-
-
-
-*/
-
-
-
 
 #include<stdio.h>
 #include<gl/glut.h>
