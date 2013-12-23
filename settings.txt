@@ -1,0 +1,21 @@
+1)The game should run in 1024x768 resolution
+
+2)it requires glut.h,glut32.lib & glut32.dll
+
+3) IDE visual studio
+
+
+
+Project developed by 
+
+Vishal sulibhavi 
+vsulibhavi@gmail.com
+
+Sandeep Ankolakar
+sandeep.ylp@gmail.com
+
+Sandeep Panchmukhi
+sandeep.panchamukhi@gmail.com
+
+
+ 
